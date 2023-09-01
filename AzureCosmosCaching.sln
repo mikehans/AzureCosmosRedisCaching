@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosCaching", "AzureCosmosCaching\AzureCosmosCaching.csproj", "{DB04DB35-4652-41B8-8AD3-EED4CA39EF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosCaching.CosmosStorage", "AzureCosmosCaching.CosmosStorage\AzureCosmosCaching.CosmosStorage.csproj", "{DC3C239B-6DDE-4C67-87BB-CC67B158354D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosCaching.Storage", "AzureCosmosCaching.Storage\AzureCosmosCaching.Storage.csproj", "{8EBC9E22-3229-45A7-9932-DA738BC6D96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosCaching.RedisStorage", "AzureCosmosCaching.RedisStorage\AzureCosmosCaching.RedisStorage.csproj", "{E922D346-124C-41EE-B10E-21D498EADBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosCaching.Model", "AzureCosmosCaching.Model\AzureCosmosCaching.Model.csproj", "{512C720B-AC1B-45A1-87BF-1C9E5EA66EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB04DB35-4652-41B8-8AD3-EED4CA39EF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB04DB35-4652-41B8-8AD3-EED4CA39EF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB04DB35-4652-41B8-8AD3-EED4CA39EF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB04DB35-4652-41B8-8AD3-EED4CA39EF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3C239B-6DDE-4C67-87BB-CC67B158354D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3C239B-6DDE-4C67-87BB-CC67B158354D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3C239B-6DDE-4C67-87BB-CC67B158354D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3C239B-6DDE-4C67-87BB-CC67B158354D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBC9E22-3229-45A7-9932-DA738BC6D96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBC9E22-3229-45A7-9932-DA738BC6D96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBC9E22-3229-45A7-9932-DA738BC6D96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBC9E22-3229-45A7-9932-DA738BC6D96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E922D346-124C-41EE-B10E-21D498EADBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E922D346-124C-41EE-B10E-21D498EADBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E922D346-124C-41EE-B10E-21D498EADBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E922D346-124C-41EE-B10E-21D498EADBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512C720B-AC1B-45A1-87BF-1C9E5EA66EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512C720B-AC1B-45A1-87BF-1C9E5EA66EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512C720B-AC1B-45A1-87BF-1C9E5EA66EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512C720B-AC1B-45A1-87BF-1C9E5EA66EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
